@@ -1,0 +1,6 @@
+[run]
+omit =
+    *tests.py
+    *urls.py
+    *wsgi.py
+    *manage.py
